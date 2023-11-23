@@ -1,6 +1,8 @@
 # dashtoon
 dashtoon assignment
 
+The dataset used was "best-artworks-of-all-time" from kaggle.
+The dataset contains artists and their painting's images
 
 FIRST PART OF THE CODE IS TRAINED ON DATASET OF ARTIST'S IMAGES.
 THE MODEL IS USED FOR CLASSIFICATION OF ARTIST IMAGES
