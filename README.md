@@ -18,7 +18,7 @@ ON THE BASE IMAGE USING AN STYLE IMAGE OF THE THE ARTIST
 THE MODEL OUTPUTS A STYLIZED IMAGE 
 
 ALL WEIGHTS OF THE MODEL (BOTH CLASSIFICATION AND THE VGG19STYLE REGRESSION ) AND THE DATASET PATH ARE UPLOADED IN GDRIVE 
-https://drive.google.com/file/d/11FOzJ6v5gvyGOzyWSA96yIJM74_lvE5A/view?usp=sharing
+https://drive.google.com/drive/folders/1PE0XyglzlwLEJYvCUd-_GFMO-DnBpsH5?usp=sharing
 
 # Future Improvements
 -Train for more epochs and on more better neural network and larger dataset for better training
