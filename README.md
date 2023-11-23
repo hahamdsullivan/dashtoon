@@ -1,5 +1,5 @@
-# dashtoon
-dashtoon assignment
+
+run the ipynb file as is . just change the dataset path.
 
 The dataset used was "best-artworks-of-all-time" from kaggle.
 The dataset contains artists and their painting's images
@@ -17,5 +17,11 @@ THE TRAINED MODEL WEIGHTS IS THEN UTILIZED FOR NEURAL STYLE TRANSFER
 ON THE BASE IMAGE USING AN STYLE IMAGE OF THE THE ARTIST 
 THE MODEL OUTPUTS A STYLIZED IMAGE 
 
-ALL WEIGHTS OF THE MODEL (BOTH CLASSIFICATION AND THE VGG19STYLE REGRESSION ) ARE UPLOADED IN GDRIVE 
+ALL WEIGHTS OF THE MODEL (BOTH CLASSIFICATION AND THE VGG19STYLE REGRESSION ) AND THE DATASET PATH ARE UPLOADED IN GDRIVE 
 https://drive.google.com/file/d/11FOzJ6v5gvyGOzyWSA96yIJM74_lvE5A/view?usp=sharing
+
+# Future Improvements
+-Train for more epochs and on more better neural network and larger dataset for better training
+-Implement different style transfer 
+-Deploy a model for specific style or multiple style (depends) and instead of relying on a style image 
+  the model can generate a style based on what it was trained on and stylize the image accordingly
