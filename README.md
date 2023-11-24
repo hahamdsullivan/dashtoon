@@ -29,8 +29,7 @@ THE MODEL OUTPUTS A STYLIZED IMAGE
 
 # Data
 
-
-ALL WEIGHTS OF THE MODEL (BOTH CLASSIFICATION AND THE VGG19STYLE REGRESSION ) AND THE DATASET PATH ARE UPLOADED IN GDRIVE 
+All Weights of the model (Both classification and VGG19 style regression) and the dataset have been uploaded in the Gdrive:
 https://drive.google.com/drive/folders/1PE0XyglzlwLEJYvCUd-_GFMO-DnBpsH5?usp=sharing
 ```
 artistdata.rar -----------------> Dataset of artist and their paintings that have been split into train and train dataset in the ratio 90:10
