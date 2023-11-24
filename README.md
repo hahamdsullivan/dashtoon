@@ -1,11 +1,11 @@
 # Requirements
----------------------------------------
+
 NumPy version: 1.24.3
 SciPy version: 1.7.3
 Scikit-learn version: 1.2.2
 Pytorch 2.0.0
 Tensorflow 2.13.0
---------------------------------------
+
 run the ipynb file as is . just change the dataset path.
 
 # Dataset Description
