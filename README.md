@@ -1,16 +1,19 @@
 # Requirements
+---------------------------------------
 NumPy version: 1.24.3
 SciPy version: 1.7.3
 Scikit-learn version: 1.2.2
 Pytorch 2.0.0
 Tensorflow 2.13.0
----------------------------------------
-
+--------------------------------------
 run the ipynb file as is . just change the dataset path.
+
+# Dataset Description
 
 The dataset used was "best-artworks-of-all-time" from kaggle.
 The dataset contains artists and their painting's images
 
+# About the ipynb file
 
 FIRST PART OF THE CODE IS TRAINED ON DATASET OF ARTIST'S IMAGES.
 THE MODEL IS USED FOR CLASSIFICATION OF ARTIST IMAGES
@@ -23,6 +26,8 @@ SO A VGG19 MODEL IS USED TO TRAIN THE IMAGES ON THE STYLE OF A SINGLE ARTIST (VI
 THE TRAINED MODEL WEIGHTS IS THEN UTILIZED FOR NEURAL STYLE TRANSFER 
 ON THE BASE IMAGE USING AN STYLE IMAGE OF THE THE ARTIST 
 THE MODEL OUTPUTS A STYLIZED IMAGE 
+
+# Data
 
 ALL WEIGHTS OF THE MODEL (BOTH CLASSIFICATION AND THE VGG19STYLE REGRESSION ) AND THE DATASET PATH ARE UPLOADED IN GDRIVE 
 https://drive.google.com/drive/folders/1PE0XyglzlwLEJYvCUd-_GFMO-DnBpsH5?usp=sharing
