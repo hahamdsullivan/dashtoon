@@ -29,7 +29,7 @@ THE MODEL OUTPUTS A STYLIZED IMAGE
 
 # Data
 
-ALL WEIGHTS OF THE MODEL (BOTH CLASSIFICATION AND THE VGG19STYLE REGRESSION ) AND THE DATASET PATH ARE UPLOADED IN GDRIVE 
+''' ALL WEIGHTS OF THE MODEL (BOTH CLASSIFICATION AND THE VGG19STYLE REGRESSION ) AND THE DATASET PATH ARE UPLOADED IN GDRIVE 
 https://drive.google.com/drive/folders/1PE0XyglzlwLEJYvCUd-_GFMO-DnBpsH5?usp=sharing
 
 artistdata.rar -----------------> Dataset of artist and their paintings that have been split into train and train dataset in the ratio 90:10
@@ -38,7 +38,7 @@ vincentvangogh.rar--------------> Dataset of test and train images of 1 artist (
 
 artistclassify.keras------------> weights of Resnet50 model for classification of the artist given the artist painting images
 
-custom_vgg19_model.pth---------->Vgg19 model pytorch weights that was trained on van gogh paintings only
+custom_vgg19_model.pth---------->Vgg19 model pytorch weights that was trained on van gogh paintings only '''
 
 
 # Future Improvements
