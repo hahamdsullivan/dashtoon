@@ -39,7 +39,7 @@ custom_vgg19_model.pth---------->Vgg19 model pytorch weights that was trained on
 
 
 # Future Improvements
--Train for more epochs and on more better neural network and larger dataset for better training
--Implement different style transfer 
--Deploy a model for specific style or multiple style (depends) and instead of relying on a style image 
-  the model can generate a style based on what it was trained on and stylize the image accordingly
+-Train for more epochs and on more better neural network and larger dataset for better training  
+-Implement different style transfer   
+-Deploy a model for specific style or multiple style (depends) and instead of relying on a style image   
+  the model can generate a style based on what it was trained on and stylize the image accordingly  
