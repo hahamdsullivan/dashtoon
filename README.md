@@ -15,17 +15,13 @@ The dataset contains artists and their painting's images
 
 # About the ipynb file
 
-FIRST PART OF THE CODE IS TRAINED ON DATASET OF ARTIST'S IMAGES.
-THE MODEL IS USED FOR CLASSIFICATION OF ARTIST IMAGES
-MODEL USED IS RESNET50
+The initial segment of the code involves training on a dataset comprising images of various artists, utilizing the ResNet50 model for the classification of these artist images.
 
-REALIZATION HIT AND I REALZED THAT IS NOT THE TASK OF THE ASSIGNMENT 
+Upon reflection, it became evident that this approach was not aligned with the assignment's objectives.
 
-SO A VGG19 MODEL IS USED TO TRAIN THE IMAGES ON THE STYLE OF A SINGLE ARTIST (VINCENT VAN GOGH IS CHOSEN AS THE DATASET HAD MAX IMAGES OF THE SAID ARTIST)
+Subsequently, a VGG19 model was employed to train images specifically in the style of a chosen artist, with Vincent van Gogh being selected due to the dataset containing a significant number of his images.
 
-THE TRAINED MODEL WEIGHTS IS THEN UTILIZED FOR NEURAL STYLE TRANSFER 
-ON THE BASE IMAGE USING AN STYLE IMAGE OF THE THE ARTIST 
-THE MODEL OUTPUTS A STYLIZED IMAGE 
+The weights of the trained model are then applied in a neural style transfer process on a base image, using a style image associated with the chosen artist. This process results in the generation of a stylized image.
 
 # Data
 
